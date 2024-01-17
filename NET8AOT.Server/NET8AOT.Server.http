@@ -1,0 +1,6 @@
+@NET8AOT.Server_HostAddress = http://localhost:5055
+
+GET {{NET8AOT.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

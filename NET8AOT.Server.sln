@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8AOT.Server", "NET8AOT.Server\NET8AOT.Server.csproj", "{741C2BC7-C36F-467B-A0B7-04EF01D3B8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8AOT.Client", "NET8AOT.Client\NET8AOT.Client.csproj", "{81BDBBF4-A4BE-499D-AD92-194750D6BA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741C2BC7-C36F-467B-A0B7-04EF01D3B8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741C2BC7-C36F-467B-A0B7-04EF01D3B8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741C2BC7-C36F-467B-A0B7-04EF01D3B8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741C2BC7-C36F-467B-A0B7-04EF01D3B8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BDBBF4-A4BE-499D-AD92-194750D6BA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BDBBF4-A4BE-499D-AD92-194750D6BA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BDBBF4-A4BE-499D-AD92-194750D6BA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BDBBF4-A4BE-499D-AD92-194750D6BA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B85BF072-9A0E-42E7-9B32-56052C13A12C}
+	EndGlobalSection
+EndGlobal
